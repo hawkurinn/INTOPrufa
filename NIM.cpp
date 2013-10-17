@@ -62,7 +62,7 @@ void spila( )
 {
 	int hruga[ 10 ];
 	cout << "*-------------------------------------------------------*" << endl;
-	cout << "                   NU SPILUM VID NIM!!" << endl;
+	cout << "                   Haukur T Hafsteinsson" << endl;
 	cout << "*-------------------------------------------------------*" << endl;
 	cout << endl << endl;
 	cout << "Veljum med hve margar hrugur vid spilum. " << endl;
